@@ -1,0 +1,13 @@
+# ESPHome
+.esphome/
+build/
+.pio/
+.vscode/
+
+# Секреты — НИКОГДА не заливать!
+secrets.yaml
+
+# Временные файлы
+*.bin
+*.elf
+*.log
